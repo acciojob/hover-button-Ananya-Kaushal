@@ -2,10 +2,9 @@
 /* Your CSS Code here. */
 .submit:hover{
     background-color: yellow;
-    border-radius: 30px;
     text-decoration-color: black;
-    
-}
+    border-radius: 30px;
+   }
 .submit{
 
     background-color: black;
